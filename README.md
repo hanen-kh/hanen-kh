@@ -125,16 +125,16 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanen-kh&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hanen-kh&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/hanen-kh/hanen-kh/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+  <img height="180" src="https://raw.githubusercontent.com/hanen-kh/hanen-kh/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
 </p>
 
 <!-- CONNECT -->
 ## ✈️ Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanen-khmilet-b85528250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:khmiletthanen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 
 <p align="center"><i>Happy to talk about Java, microservices, DevOps, teaching, or why the build is red. 🔴➡️🟢</i></p>
