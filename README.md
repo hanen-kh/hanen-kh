@@ -133,8 +133,8 @@ flowchart LR
 ## ✈️ Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hanen-khmilet-b85528250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="khmiletthanen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 
 <p align="center"><i>Happy to talk about Java, microservices, DevOps, teaching, or why the build is red. 🔴➡️🟢</i></p>
